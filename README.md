@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<b>A little about myself ! 😅<br>
+<b>Um pouco sobre mim: 😅<br>
 - 🙆 Meu nome é Ítalo Rudney<br>
 - 🇧🇷 Brasileiro<br>
 - 🧠 Graduado em Analise e Desenvolvimento de Sistemas<br>
